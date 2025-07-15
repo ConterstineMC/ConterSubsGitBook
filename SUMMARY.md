@@ -1,0 +1,78 @@
+# Table of contents
+
+* [Home](README.md)
+
+## ⛓️ Mecanicas
+
+* [Batalla en el End - Dragostina](mecanicas/batalla-en-el-end-dragostina/README.md)
+  * [Dragostina - Dificultades](mecanicas/batalla-en-el-end-dragostina/dragostina-dificultades.md)
+  * [Dragostina - Alternative End](mecanicas/batalla-en-el-end-dragostina/dragostina-alternative-end.md)
+  * [Dragostina - Comandos](mecanicas/batalla-en-el-end-dragostina/dragostina-comandos.md)
+  * [Dragostina - Estadisticas](mecanicas/batalla-en-el-end-dragostina/dragostina-estadisticas.md)
+  * [Dragostina - Entorno](mecanicas/batalla-en-el-end-dragostina/dragostina-entorno.md)
+  * [Dragostina - Mobs](mecanicas/batalla-en-el-end-dragostina/dragostina-mobs/README.md)
+    * [Dragostina - Mobs - Pulga del End](mecanicas/batalla-en-el-end-dragostina/dragostina-mobs/dragostina-mobs-pulga-del-end.md)
+    * [Dragostina - Mobs - Endermen](mecanicas/batalla-en-el-end-dragostina/dragostina-mobs/dragostina-mobs-endermen.md)
+    * [Dragostina - Mobs - EndGhast](mecanicas/batalla-en-el-end-dragostina/dragostina-mobs/dragostina-mobs-endghast.md)
+    * [Dragostina - Mobs - EndBrute](mecanicas/batalla-en-el-end-dragostina/dragostina-mobs/dragostina-mobs-endbrute.md)
+    * [Dragostina - Mobs - Gato de Crystal](mecanicas/batalla-en-el-end-dragostina/dragostina-mobs/dragostina-mobs-gato-de-crystal.md)
+    * [Dragostina - Mobs - EndCreeper](mecanicas/batalla-en-el-end-dragostina/dragostina-mobs/dragostina-mobs-endcreeper.md)
+    * [Dragostina - Mobs - EndSkeleton](mecanicas/batalla-en-el-end-dragostina/dragostina-mobs/dragostina-mobs-endskeleton.md)
+    * [Dragostina - Mobs - EndBlaze](mecanicas/batalla-en-el-end-dragostina/dragostina-mobs/dragostina-mobs-endblaze.md)
+    * [Dragostina - Mobs - EndVex](mecanicas/batalla-en-el-end-dragostina/dragostina-mobs/dragostina-mobs-endvex.md)
+* [Venta](mecanicas/venta.md)
+* [CAmazon](mecanicas/camazon.md)
+
+## 🥢 Items Custom
+
+* [Materiales](items-custom/materiales/README.md)
+  * [Nucleo de Perforacion](items-custom/materiales/nucleo-de-perforacion.md)
+* [Armas](items-custom/armas/README.md)
+  * [Totem del Void](items-custom/armas/totem-del-void.md)
+  * [La Punga](items-custom/armas/la-punga.md)
+  * [Cañon de Bolas de Nieve](items-custom/armas/canon-de-bolas-de-nieve.md)
+  * [Flaregun](items-custom/armas/flaregun.md)
+  * [Dark Katana](items-custom/armas/dark-katana.md)
+* [Artefactos](items-custom/artefactos/README.md)
+  * [Tracker de Tumba](items-custom/artefactos/tracker-de-tumba.md)
+  * [Ender Bundle](items-custom/artefactos/ender-bundle.md)
+* [Herramientas](items-custom/herramientas/README.md)
+  * [Excavador 3x](items-custom/herramientas/excavador-3x.md)
+  * [Mazo 3x](items-custom/herramientas/mazo-3x.md)
+  * [Gancho](items-custom/herramientas/gancho.md)
+  * [Decapitador de Arboles](items-custom/herramientas/decapitador-de-arboles.md)
+* [Comida](items-custom/comida/README.md)
+  * [Pie de Manzana](items-custom/comida/pie-de-manzana.md)
+  * [Pie de Berrie](items-custom/comida/pie-de-berrie.md)
+  * [Estofado de Salmon](items-custom/comida/estofado-de-salmon.md)
+  * [Estofado de Cerdo](items-custom/comida/estofado-de-cerdo.md)
+* [Pad](items-custom/pad/README.md)
+  * [Chip](items-custom/pad/chip.md)
+  * [Teleport](items-custom/pad/teleport.md)
+* [Corazones](items-custom/corazones/README.md)
+  * [Corazon Efimero](items-custom/corazones/corazon-efimero.md)
+  * [Corazon Eterno](items-custom/corazones/corazon-eterno.md)
+  * [Corazon Hardcore](items-custom/corazones/corazon-hardcore.md)
+* [Sombreros](items-custom/sombreros/README.md)
+  * [Plumbbob](items-custom/sombreros/plumbbob.md)
+
+## 📚 Enchants Custom
+
+* [Normales](enchants-custom/normales/README.md)
+  * [Swapping](enchants-custom/normales/swapping.md)
+  * [Propeller](enchants-custom/normales/propeller.md)
+  * [Shrinkage](enchants-custom/normales/shrinkage.md)
+  * [Soulbound](enchants-custom/normales/soulbound.md)
+  * [Replant](enchants-custom/normales/replant.md)
+  * [Cushion](enchants-custom/normales/cushion.md)
+  * [Telekinesis](enchants-custom/normales/telekinesis.md)
+  * [Lifesteal](enchants-custom/normales/lifesteal.md)
+  * [Smelting](enchants-custom/normales/smelting.md)
+* [Maldiciones](enchants-custom/maldiciones/README.md)
+  * [Pain Protection Curse](enchants-custom/maldiciones/pain-protection-curse.md)
+  * [Staggering Guard Curse](enchants-custom/maldiciones/staggering-guard-curse.md)
+
+## 🧃 Pociones
+
+* [Jugo de Zanahoria](pociones/jugo-de-zanahoria.md)
+* [Haste](pociones/haste.md)
