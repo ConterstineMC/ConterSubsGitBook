@@ -68,6 +68,7 @@
   * [Telekinesis](enchants-custom/normales/telekinesis.md)
   * [Lifesteal](enchants-custom/normales/lifesteal.md)
   * [Smelting](enchants-custom/normales/smelting.md)
+  * [Pocket Link](enchants-custom/normales/pocket-link.md)
 * [Maldiciones](enchants-custom/maldiciones/README.md)
   * [Pain Protection Curse](enchants-custom/maldiciones/pain-protection-curse.md)
   * [Staggering Guard Curse](enchants-custom/maldiciones/staggering-guard-curse.md)
