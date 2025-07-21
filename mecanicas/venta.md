@@ -23,7 +23,7 @@ description: Mediante /sellgui puedes vender tus items por FurroCoins
 | Diamante            | 75    |
 | Diamante Deepslate  | 50    |
 | Ancient Debris      | 500   |
-| Gilded Blakcstone   | 520   |
+| Gilded Blackstone   | 120   |
 {% endtab %}
 
 {% tab title="Bloques" %}
