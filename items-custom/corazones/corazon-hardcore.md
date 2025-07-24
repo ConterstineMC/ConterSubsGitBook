@@ -5,7 +5,11 @@ description: Un corazon que permite al jugador entrar en modo Hardcore.
 # Corazon Hardcore
 
 {% hint style="info" %}
-Al morir el jugador es baneado durante 1 dia
+Al morir el jugador es baneado.\
+La duracion dependera de cuantos dias han pasado desde que usaste el corazon, en base a \
+\[duracion(min) = dias \* 10(min)]\
+\
+Ej: Si pasaron 10 dias de minecraft entonces tu ban es de 100min, osea 1 hora y 40 minutos.
 {% endhint %}
 
 ### Crafteo
