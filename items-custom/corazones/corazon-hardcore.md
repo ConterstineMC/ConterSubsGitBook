@@ -5,7 +5,7 @@ description: Un corazon que permite al jugador entrar en modo Hardcore.
 # Corazon Hardcore
 
 {% hint style="info" %}
-Al morir el jugador es baneado.\
+Al morir el jugador es baneado. (la duracion tiene un rango de \[10min - 3dias]\
 La duracion dependera de cuantos dias han pasado desde que usaste el corazon, en base a \
 \[duracion(min) = dias \* 10(min)]\
 \
