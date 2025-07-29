@@ -12,4 +12,4 @@ Este encantamiento puede perderse si la Shulker encantada es colocada como bloqu
 
 ### Ubicaciones
 
-* ?????
+* Posible drop de [Conejo Shulker](../../mecanicas/conejones/mutantes/shulker.md)

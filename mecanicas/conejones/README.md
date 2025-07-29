@@ -11,5 +11,3 @@ description: >-
 * Atacan a casi todas las entidades del juego
 * Daño aumentado
 * Su daño incrementa al robar cultivos
-
-|
