@@ -1,5 +1,5 @@
 ---
-description: Un conejo Phantom, vuelva y es molesto
+description: Un conejo Phantom, vuela y es molesto
 ---
 
 # Phantom
