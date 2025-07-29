@@ -22,6 +22,18 @@
     * [Dragostina - Mobs - EndVex](mecanicas/batalla-en-el-end-dragostina/dragostina-mobs/dragostina-mobs-endvex.md)
 * [Venta](mecanicas/venta.md)
 * [CAmazon](mecanicas/camazon.md)
+* [Conejones](mecanicas/conejones/README.md)
+  * [Habilidades](mecanicas/conejones/habilidades/README.md)
+    * [Teletransportacion](mecanicas/conejones/habilidades/teletransportacion.md)
+    * [Defensa en Area](mecanicas/conejones/habilidades/defensa-en-area.md)
+  * [Mutantes](mecanicas/conejones/mutantes/README.md)
+    * [Creeper](mecanicas/conejones/mutantes/creeper.md)
+    * [Phantom](mecanicas/conejones/mutantes/phantom.md)
+    * [Blaze](mecanicas/conejones/mutantes/blaze.md)
+    * [Warden](mecanicas/conejones/mutantes/warden.md)
+    * [Wither](mecanicas/conejones/mutantes/wither.md)
+    * [Shulker](mecanicas/conejones/mutantes/shulker.md)
+    * [Bombardero](mecanicas/conejones/mutantes/bombardero.md)
 
 ## 🥢 Items Custom
 
