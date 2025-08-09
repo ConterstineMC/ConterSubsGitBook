@@ -58,6 +58,7 @@
   * [Pie de Berrie](items-custom/comida/pie-de-berrie.md)
   * [Estofado de Salmon](items-custom/comida/estofado-de-salmon.md)
   * [Estofado de Cerdo](items-custom/comida/estofado-de-cerdo.md)
+  * [Carne Podrida Comprimida](items-custom/comida/carne-podrida-comprimida.md)
 * [Pad](items-custom/pad/README.md)
   * [Chip](items-custom/pad/chip.md)
   * [Teleport](items-custom/pad/teleport.md)
