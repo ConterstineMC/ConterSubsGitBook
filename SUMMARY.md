@@ -39,6 +39,7 @@
 
 * [Materiales](items-custom/materiales/README.md)
   * [Nucleo de Perforacion](items-custom/materiales/nucleo-de-perforacion.md)
+  * [Ender Pearl Comprimida](items-custom/materiales/ender-pearl-comprimida.md)
 * [Armas](items-custom/armas/README.md)
   * [Totem del Void](items-custom/armas/totem-del-void.md)
   * [La Punga](items-custom/armas/la-punga.md)
@@ -82,6 +83,7 @@
   * [Lifesteal](enchants-custom/normales/lifesteal.md)
   * [Smelting](enchants-custom/normales/smelting.md)
   * [Pocket Link](enchants-custom/normales/pocket-link.md)
+  * [Life Mending](enchants-custom/normales/life-mending.md)
 * [Maldiciones](enchants-custom/maldiciones/README.md)
   * [Pain Protection Curse](enchants-custom/maldiciones/pain-protection-curse.md)
   * [Staggering Guard Curse](enchants-custom/maldiciones/staggering-guard-curse.md)

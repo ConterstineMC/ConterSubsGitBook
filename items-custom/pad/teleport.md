@@ -15,4 +15,5 @@ description: >-
 * Debes hacer Shift para comenzar el teletransporte
 * Con unas tijeras puedes remover el Chip en el Teleport
 * Puedes usar una picota (Click Derecho) para remover el Teleport
+* Requiere el uso de [Ender Pearl Comprimida](../materiales/ender-pearl-comprimida.md) como combustible para usar
 
