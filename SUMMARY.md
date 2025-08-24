@@ -48,6 +48,7 @@
   * [Dark Katana](items-custom/armas/dark-katana.md)
 * [Artefactos](items-custom/artefactos/README.md)
   * [Tracker de Tumba](items-custom/artefactos/tracker-de-tumba.md)
+  * [Libro de Mejora de Encantamientos](items-custom/artefactos/libro-de-mejora-de-encantamientos.md)
   * [Ender Bundle](items-custom/artefactos/ender-bundle.md)
 * [Herramientas](items-custom/herramientas/README.md)
   * [Excavador 3x](items-custom/herramientas/excavador-3x.md)
