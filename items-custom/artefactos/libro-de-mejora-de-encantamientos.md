@@ -17,7 +17,9 @@ description: Este item permite mejorar un encantamiento en libro sobre su maximo
   * Lava no es fuego
 * Solo funciona en libros encantados
 * Solo funciona en un encantamiento de libro
-* No mejora encantamientos que ya esten al maximo y que ademas dicho maximo no sea 1
+* No mejora encantamientos si..
+  * Su nivel maximo es 1
+  * Supera un nivel definido internamente, estos casos son mas donde sobre cierto nivel ya van a funcionar mal, generar errores o generan exploits
 * Al usarlo el item resultante se considera "Libro Mejorado" y no puede volver a mejorarse
 * Su uso requiere minimo 30 niveles de EXP,&#x20;
 
