@@ -13,6 +13,8 @@ description: Este item permite mejorar un encantamiento en libro sobre su maximo
 #### Libro de Mejora
 
 * El item solo funciona si esta cargado mediante el impacto de un rayo
+* El item resiste fuego y rayos.
+  * Lava no es fuego
 * Solo funciona en libros encantados
 * Solo funciona en un encantamiento de libro
 * No mejora encantamientos que ya esten al maximo y que ademas dicho maximo no sea 1
