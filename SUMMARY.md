@@ -61,6 +61,7 @@
   * [Estofado de Salmon](items-custom/comida/estofado-de-salmon.md)
   * [Estofado de Cerdo](items-custom/comida/estofado-de-cerdo.md)
   * [Carne Podrida Comprimida](items-custom/comida/carne-podrida-comprimida.md)
+  * [Zanahoria Bulliom](items-custom/comida/zanahoria-bulliom.md)
 * [Pad](items-custom/pad/README.md)
   * [Chip](items-custom/pad/chip.md)
   * [Teleport](items-custom/pad/teleport.md)
