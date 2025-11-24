@@ -70,6 +70,8 @@
   * [Corazon Eterno](items-custom/corazones/corazon-eterno.md)
   * [Corazon Hardcore](items-custom/corazones/corazon-hardcore.md)
 * [Sombreros](items-custom/sombreros/README.md)
+  * [Tela de Moda](items-custom/sombreros/tela-de-moda.md)
+  * [Drop Fashion](items-custom/sombreros/drop-fashion.md)
   * [Plumbbob](items-custom/sombreros/plumbbob.md)
 
 ## 📚 Enchants Custom
